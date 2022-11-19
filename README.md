@@ -1,3 +1,4 @@
+
 # WEATHER APP WITH REACT
 **WEATHER APP with REACT** Homework for 4. Sezon Yetişkinler Hafta Sonu.
 
@@ -12,10 +13,10 @@ If you need detailed information, just click on days and see information! <br>
 
 ## Languages
 <div style="display: flex; align-items: flex-start;">
-<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/></p>
-<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/></p>
-<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/></p></div>
-<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="80" height="80"/></p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="80" height="80"/></div>
 
 ---
 
